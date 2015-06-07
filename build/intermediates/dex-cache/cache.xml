@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/henry/Documents/EclipseWorkspace/Game2048Publish/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="db0f122c99ef9f90dbab3fada6d191f2880cbb8e">
+        <dex dex="/Users/henry/Documents/EclipseWorkspace/Game2048Publish/build/intermediates/pre-dexed/debug/android-support-v4-6de8e2ef4fa426c5df748b4bfe241cc48f8b5bc7.jar" />
+    </item>
+
+</items>
